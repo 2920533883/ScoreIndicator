@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">计分器</string>
+    <string name="TeamB" translatable="false">B队</string>
+    <string name="chehui">撤回</string>
+    <string name="qingling">清零</string>
+    <string name="teama">A队</string>
+</resources>

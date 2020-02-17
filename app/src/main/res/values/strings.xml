@@ -1,0 +1,13 @@
+<resources>
+    <string name="teama">TeamA</string>
+    <string name="scorea" translatable="false">0</string>
+    <string name="scoreb" translatable="false">0</string>
+    <string name="button1" translatable="false">+1</string>
+    <string name="button2" translatable="false">+2</string>
+    <string name="button3" translatable="false">+3</string>
+    <string name="qingling">reset</string>
+    <string name="chehui">undo</string>
+    <string name="app_name">计分器</string>
+    <string name="TeamB">TeamB</string>
+    <string name="Creat">Made By ZRF</string>
+</resources>
